@@ -24,6 +24,7 @@ def main():
             print("add - add name and phone number;")
             print("close/exit - if you want quit;")
             print("change - if you need to do some change;")
+            print("delete - if you need to remove a contact;")
             print("phone - you need enter name to see phone number")
             print("all - to see all list that you add")
             print("add-birthday - Add the date of birth for the specified contact.")
